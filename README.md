@@ -1,6 +1,6 @@
 # Chat Java
 
-Projeto criado para o trabalho final da disciplica de LPOO (Linguagem de programação orientada a objetos).
+Projeto criado para o trabalho final da disciplina de LPOO (Linguagem de programação orientada a objetos).
 
 ### 🚀Autores
   * [Felipe Dos Anjos](https://github.com/FelipeDasr)
